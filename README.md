@@ -1,9 +1,3 @@
-
-Side
-2
-av 4
-IS-211 Spring 2022 Mandatory Assignment III v2022-03-18
-IS-211 Mandatory assignment III
 Choose between tasks A and B, i.e. you should only solve one of the tasks.
 A. Network management
 Problem 1
@@ -30,7 +24,7 @@ One of the reason for the success of the TCP/IP internet, is the robustness of t
 routing algorithm. The routing algorithm used in IP, is usually a variant of Dijkstra's
 Algorithm. The routing algorithm described below is a gross simplification of the real
 protocol:
-Page 1 of 4
+
 IS-211 Spring 2022 Mandatory Assignment III v2022-03-18
 ● Each node on the network runs Dijktra's algorithm once, to find the fastest
 route from that node to all the other nodes.
@@ -63,7 +57,6 @@ and implement it for the given problem in a programming language (Java, for
 example).
 Design and run benchmarking tests for both methods, reflect on the results and
 conclude.
-Page 2 of 4
 IS-211 Spring 2022 Mandatory Assignment III v2022-03-18
 Figure 1. Copy from (Russell & Norvig, 2010)
 Hand in
@@ -77,7 +70,7 @@ salesman heuristic. European Journal of Operational Research, 126(1), 106–130.
 https://doi.org/10.1016/s0377-2217(99)00284-2
 Laporte, G. (2010). A concise guide to the Traveling Salesman Problem. Journal of
 the Operational Research Society, 61(1), 35–40. https://doi.org/10.1057/jors.2009.76
-Page 3 of 4
+
 IS-211 Spring 2022 Mandatory Assignment III v2022-03-18
 Russell, S., & Norvig, P. (2010). Artificial intelligence : a modern approach (3rd ed.).
 Pearson.
@@ -87,4 +80,4 @@ ds-in-management-science-spring-2013/lecture-notes/MIT15_053S13_lec17.pdf
 Part A based on Even Larsen/2020
 Part B Janis Gailis/2022
 END.
-Page 4 of 4
+
